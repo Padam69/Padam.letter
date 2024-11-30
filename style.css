@@ -70,7 +70,7 @@ body{
   font-family: 'fantasy','serif';
   color: var(--txt-color);
   text-align: left;
-  font-size: 10px;
+  font-size: 100px;
 }
 .heart {
   position: absolute;
